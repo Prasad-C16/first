@@ -1,1 +1,3 @@
-# first
+#include<stdio.h>
+
+printf("Hello world");
